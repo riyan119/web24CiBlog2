@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // menentukan url index suffix=>extensi file removed, 
-$config['base_url'] = 'http://localhost/webpertemuan3';
+$config['base_url'] = 'http://localhost/web24ciblog';
 
 /*
 |--------------------------------------------------------------------------
